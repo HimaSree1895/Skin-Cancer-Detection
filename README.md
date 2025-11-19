@@ -1,4 +1,4 @@
-# major Project Github
+# Major Project Github
 
 ## Project title
 Skin Cancer Detection
